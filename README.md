@@ -19,6 +19,8 @@ Honestly? I don't know. But it seemed fun enough to build.
 
 ## 🚀 Usage
 
+Usage examples below. A full Wiki is coming soon (probably just so I can pretend it matters).
+
 ```go
 opt := salvation.NewPossibility[*MyStruct](nil)
 
@@ -39,6 +41,20 @@ opt.Match().
     })
 ```
 
+## 🫠 Contributing
+
+Thinking of contributing? That's adorable.
+
+Before submitting a PR, feature request, or unhinged philosophical improvement, please consult the [`CONTRIBUTING.md`](CONTRIBUTING.md). It's full of helpful guidelines, emotional red flags, and vague threats.
+
+If you're still interested after reading it, I can't stop you. No one can.
+
+## ⭐️ Validation
+
+If this repo made you feel something (anything at all) you can click the star. It won't fix your life, but it'll make this repo slightly more visible to other souls.
+
+> I made this section against my own will...
+
 ## 🧯 License
 
-This project uses the **The Unlicense** license (lol, jk just copy and paste into your code and believe in yourself)
+This project uses **The Unlicense** license (just copy and paste into your code and believe in yourself)
